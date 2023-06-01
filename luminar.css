@@ -1,0 +1,97 @@
+/* navbar */
+
+#id1:hover{
+    color: rgb(106, 14, 142);
+}
+
+/* Carousel session */
+
+#id2{
+    padding-bottom: 189px;
+    text-align: left;
+    margin-left: 10%;
+}
+#id3{
+    font-size: 73px;
+}
+#id4{
+    font-size: 22px;
+    padding-top: 16px;
+}
+#id5{
+    border-radius: 44px;
+    width: 250px;
+    height: 55px;
+    color: rgb(245, 241, 248);
+    background-color: blueviolet;
+    padding: 2px;
+    margin-top: 31px;
+}
+#id6{
+    padding-bottom: 115px;
+    text-align: left;
+    margin-left: 10%;  
+}
+
+/* Modal session */
+
+#clstext{
+    border: 0px;
+    outline: none;
+}
+#clsinput{
+    border: 0px;
+    outline: none;  
+}
+#inputState{
+    border: 0px;
+    outline: none;  
+} 
+#clsbutn1{
+    background-color: rgb(151, 72, 224);
+    color: white;
+}
+/* midle grid session */
+#idgrid1{
+    height: 400px;
+}
+#h4id{
+    padding-bottom: 3px;
+    color: rgb(106, 14, 142);
+}
+#h6id{
+    color: rgb(106, 14, 142);
+}
+#grdbutn{
+    border-radius: 44px;
+    width: 132px;
+    height: 44px;
+    color: rgb(245, 241, 248);
+    background-color: blueviolet;
+    padding: 2px;
+    margin-top: 31px;
+    border: 2px solid rgb(95, 6, 95);
+}
+#grdbutn:hover{
+    border-radius: 44px;
+    background-color: white; 
+    color: rgb(95, 6, 95);
+    border: 2px solid rgb(95, 6, 95);
+}
+/* OUR COURSES */
+#coursesid1{
+    color: rgb(71, 10, 129);
+}
+#courseid2{
+    transition: 1s ease-in;
+}
+#courseid2:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transform: scale(1.03)
+}
+#cls1{
+    background-color: rgb(243, 243, 243);
+}
+#secondgrid{
+    background-color: white;
+}
